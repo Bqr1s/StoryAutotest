@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+    <name>StoryAutotest</name>
+    <author>Boris</author>
+    <packageId>Boris.StoryAutotest</packageId>
+    <description>An autotest.</description>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+</ModMetaData>
